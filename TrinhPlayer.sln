@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrinhPlayer", "TrinhPlayer\TrinhPlayer.csproj", "{8DA28E1C-CCA6-421A-A8E2-C27D5559C6A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.Apps.Framework", "Maui.Apps.Framework\Maui.Apps.Framework.csproj", "{09C38612-599F-461D-A004-B556A18ABA36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA28E1C-CCA6-421A-A8E2-C27D5559C6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA28E1C-CCA6-421A-A8E2-C27D5559C6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA28E1C-CCA6-421A-A8E2-C27D5559C6A0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8DA28E1C-CCA6-421A-A8E2-C27D5559C6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA28E1C-CCA6-421A-A8E2-C27D5559C6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA28E1C-CCA6-421A-A8E2-C27D5559C6A0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{09C38612-599F-461D-A004-B556A18ABA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C38612-599F-461D-A004-B556A18ABA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C38612-599F-461D-A004-B556A18ABA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C38612-599F-461D-A004-B556A18ABA36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2929F49B-A812-4921-A4A1-66972F7CC194}
+	EndGlobalSection
+EndGlobal
