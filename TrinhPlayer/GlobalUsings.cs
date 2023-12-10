@@ -1,15 +1,1 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TrinhPlayer
-{
-    public class GlobalUsings
-    {
-        public  GlobalUsings()
-        {
-        }
-    }
-}
+﻿global using TrinhPlayer.Views;
