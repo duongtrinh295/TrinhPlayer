@@ -1,1 +1,20 @@
 ﻿global using TrinhPlayer.Views;
+global using  TrinhPlayer.IServices;
+global using System.Text.Json.Serialization;
+global using TrinhPlayer.Models;
+global using Maui.Apps.Framework.Serviers;
+global using Maui.Apps.Framework.MVVM;
+global using CommunityToolkit.Mvvm.Input;
+global using Microsoft.Maui.LifecycleEvents;
+global using MonkeyCache;
+global using MonkeyCache.FileStore;
+global using TrinhPlayer.Helpers;
+global using System.Net;
+global using Maui.Apps.Framework.Exceptions;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using System.Collections.ObjectModel;
+global using Maui.Apps.Framework.Extensions;
+global using Microsoft.Maui.Controls.Compatibility.Hosting;
+
+global using System.IO;
+global using System.Net.Http;

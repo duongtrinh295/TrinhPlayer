@@ -39,7 +39,7 @@ namespace Maui.Apps.Framework.Serviers
             return JsonSerializer.Deserialize<T>(json);
         }
 
-        // giúp giảm số lượng request cần gửi và tiết kiệm băng thông. 
+        // giúp giảm số lượng request cần gửi và tiết kiệm băng thông. l
         // chức năng tải dữ liệu JSON từ API và lưu trữ trong cache nếu được yêu cầu.
         private async Task<string> GetJsonAsync(string resource, int cacheDuration = 24)
         {
